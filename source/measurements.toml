@@ -1,0 +1,52 @@
+[remarkable_width]
+value = 188.0
+unit = "mm"
+how = "reMarkable support specification, accessed 2026-08-07"
+
+[remarkable_height]
+value = 246.0
+unit = "mm"
+how = "reMarkable support specification, accessed 2026-08-07"
+
+[remarkable_thickness]
+value = 4.7
+unit = "mm"
+how = "reMarkable support specification, accessed 2026-08-07"
+
+[iphone_case_width]
+value = 70.0
+unit = "mm"
+how = "specified by user, revised estimate, 2026-08-07"
+
+[iphone_case_height]
+value = 136.0
+unit = "mm"
+how = "provisional case envelope based on Apple's 131.5 mm bare-device height, 2026-08-07"
+provisional = true
+
+[iphone_case_thickness]
+value = 11.0
+unit = "mm"
+how = "provisional case envelope; case thickness not supplied, 2026-08-07"
+provisional = true
+
+[available_desk_depth]
+value = 300.0
+unit = "mm"
+how = "specified by user, 2026-08-07"
+
+[universal_phone_max_width]
+value = 84.0
+unit = "mm"
+how = "design envelope covering large contemporary phones with a moderate case, 2026-08-07"
+
+[universal_phone_max_height]
+value = 174.0
+unit = "mm"
+how = "design envelope covering large contemporary phones with a moderate case, 2026-08-07"
+
+[mast_pin_diameter]
+value = 5.1
+unit = "mm"
+how = "user-confirmed model diameter of the working mast pin, 2026-08-09"
+
